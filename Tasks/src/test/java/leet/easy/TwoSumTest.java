@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertArrayEquals;
 
-public class TwoSumTest extends TestCase {
+public class TwoSumTest {
 
     @Test
     public void twoSum()
